@@ -1,8 +1,20 @@
+.text{
+    margin: 30px;
+
+}
+
+.text .box{
+    padding: 25px;
+}
+
 .text .box span{
  border: 5px dotted red;
  color: greenyellow;
  background-color: grey;
  border-radius: 4px;
+ margin: 20px;
+ padding: 10px
+
 }
 
 .ayda .bastami span{
