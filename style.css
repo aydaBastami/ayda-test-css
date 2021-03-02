@@ -1,0 +1,13 @@
+.text .box span{
+ border: 5px dotted red;
+ color: greenyellow;
+ background-color: grey;
+ border-radius: 4px;
+}
+
+.ayda .bastami span{
+    border: 6px dashed blue;
+    color: crimson;
+    background-color: pink;
+    border-radius: 7px;
+}
